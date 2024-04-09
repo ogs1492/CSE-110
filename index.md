@@ -1,7 +1,7 @@
 # About Me
 My name is Suhaib Chowdhury. I am a Math-CS major. I transferred to UCSD last year. Hopefully this will be my last quarter here. I am originally from Fresno. I have been programming on and off for quite a few years at this point. I first got interested in game development at about 11 years. I did not get serious about programming until high school though. You can see more about my skills in [**An Informal Resume**](#an-informal-resume). My main interest with computer science is in networking. I want to get into network programming. I also had an interest in machine learning ever since I first learned about it. We will have to wait and see if it sticks around.
 
-Here is a not so flattering photo of me. 
+Here is a not so flattering photo of me. I don't know why its so big. I cannot figure out how to make it smaller.
 
 ![me](me.jpg)
 
