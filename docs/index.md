@@ -11,7 +11,7 @@ My philosophy these past couple of years is based on this quote often incorrectl
 I choose to interpret this as focusing on actually learning rather than letting worrying about grades. I will still try to get good grades, but I won't try to maximize my grades only to not end up learning anything. I want my grade to be a representation of my actual skill and not something I prop up. I think that the current state of computer science education is not good for teaching student how to succeed in the workplace, which is why we have this class (I want to point out I have zero industry experience, so I may be completely wrong about this). I want to get good at what I do. 
 
 I have been spending a lot of time learning advanced programming skills. I recognize that I am far from being great, but I believe that I can get there. Here is some code from a personal project I am working on. It initializes a chess board from a [FEN String](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation). I hope its needless complexity will impress you.
-{% raw $}
+{% raw %}
 ```
 Board::Board(std::string fen_string_pieces) {
 	boards = {0,0,0,0,0,0,0,0};
@@ -44,7 +44,7 @@ Board::Board(std::string fen_string_pieces) {
 	}
 }
 ```
-{% endraw $}
+{% endraw %}
 ## Interests
 I like reading. I haven't had much time to read but at this moment I have read 129 books. I'm not sure if it is a lot. I know this number will be impressive to people who don't read books, but I know for avid readers this may be a bit low. My favorite book is _The Final Empire_ by Brandon Sanderson. I which I had something a bit more interesting to have as my favorite, but that is something I am aiming to fix.
 
