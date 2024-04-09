@@ -1,9 +1,11 @@
 # About Me
 My name is Suhaib Chowdhury. I am a Math-CS major. I transferred to UCSD last year. Hopefully this will be my last quarter here. I am originally from Fresno. I have been programming on and off for quite a few years at this point. I first got interested in game development at about 11 years. I did not get serious about programming until high school though. You can see more about my skills in [**An Informal Resume**](#an-informal-resume). My main interest with computer science is in networking. I want to get into network programming. I also had an interest in machine learning ever since I first learned about it. We will have to wait and see if it sticks around.
 
-(Here is a not so flattering photo of me)[Photo of Me.JPG]. I do not know why I look like that.
+Here is a not so flattering photo of me. 
 
-My philosophy these past couple of years is based on this quote often incorrectly attributed to [Mark Twain](https://marktwainstudies.com/the-apocryphal-twain-i-have-never-let-schooling-interfere-with-my-education/).
+![me](me.jpg)
+
+My philosophy these past couple of years is based on this quote often incorrectly attributed to [Mark Twain](https://marktwainstudies.com/the-apocryphal-twain-i-have-never-let-schooling-interfere-with-my-education/):
 > I have never let my schooling interfere with my education.
 
 I choose to interpret this as focusing on actually learning rather than letting worrying about grades. I will still try to get good grades, but I won't try to maximize my grades only to not end up learning anything. I want my grade to be a representation of my actual skill and not something I prop up. I think that the current state of computer science education is not good for teaching student how to succeed in the workplace, which is why we have this class (I want to point out I have zero industry experience, so I may be completely wrong about this). I want to get good at what I do. 
